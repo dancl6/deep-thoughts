@@ -19,7 +19,7 @@ Installation
 Pull from Github. npm i npm start for localhost. Or deploy to server like Heroku using MongoDB Atlas.
 
 Deployment
-Deployed App
+[Deployed App](https://fast-mesa-85658.herokuapp.com/)
 
 Usage
 Sign up or log in and comment or see thoughts or comment on other users' thoughts.
